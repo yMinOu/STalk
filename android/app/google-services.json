@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "774507529243",
+    "firebase_url": "https://ststalk-84409-default-rtdb.firebaseio.com",
+    "project_id": "ststalk-84409",
+    "storage_bucket": "ststalk-84409.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774507529243:android:277975e74930c913aa64be",
+        "android_client_info": {
+          "package_name": "com.st.stalk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd2mIP3lkp8RGUHUbP3WetzcyX1hUYWr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

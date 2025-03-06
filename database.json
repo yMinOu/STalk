@@ -1,0 +1,10 @@
+{
+  "bannerImages": {
+    "1": "https://cehaja.kr/banner1.png",
+    "2": "https://cehaja.kr/banner2.png"
+  },
+  "bannedUsers": {
+    "12345": true,
+    "67890": true
+  }
+}
